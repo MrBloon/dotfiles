@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = hedin.matthieu75@gmail.com
-	name = matthieu hedin
+	email = hedin
+	name = matthieu
